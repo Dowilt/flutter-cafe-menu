@@ -81,7 +81,7 @@ docker-compose down
 
 ## 🎥 Демонстрация
 
-![GIF демонстрации](gifs/demo.gif)
+![GIF демонстрации](demo.gif)
 
 ## 🧑‍💻 Автор
 

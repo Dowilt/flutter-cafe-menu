@@ -1,0 +1,11 @@
+{
+  "name": "Кафе У Flutter",
+  "short_name": "CafeMenu",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#795548",
+  "description": "Приложение меню кафе",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
